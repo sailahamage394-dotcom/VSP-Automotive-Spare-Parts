@@ -1,30 +1,23 @@
-# VSP Automotive Spare Parts Website
+# VSP Automotive Spare Parts
 
-## About the Project
-VSP is an automotive spare-parts e-commerce website designed to help customers explore and purchase vehicle spare parts online.
-
-## Live Website
-https://vsp-project-a35v.onrender.com/
+Responsive student-project starter for an automotive spare-parts storefront.
 
 ## Features
-- Automotive spare-parts shopping interface
-- User login interface
-- Product browsing
-- Add-to-cart functionality
-- Order management interface
-- Responsive website design
+- Responsive homepage and product cards
+- Product search and category filters
+- Add-to-cart and remove-from-cart
+- Express backend product API and demo order endpoint
 
-## Technologies Used
-The technologies depend on the actual project source code. Update this section with the frontend, backend, and database technologies used.
+## Run locally
+1. Install Node.js LTS.
+2. Extract this ZIP.
+3. Open Command Prompt inside this folder.
+4. Run `npm install`
+5. Run `npm start`
+6. Visit http://localhost:3000
 
-## How to Run
-1. Download or clone this repository.
-2. Open the project folder.
-3. Install the dependencies required by the project.
-4. Start the application using the instructions in the project's configuration files.
+## Deploy to Render
+Create a Web Service connected to the GitHub repository. Build command: `npm install`. Start command: `npm start`.
 
-## Project Purpose
-This project was developed as an academic project to demonstrate an automotive spare-parts online shopping website.
-
-## Author
-VSP Project
+## Important
+This is a starter project, not the original source code for the live website. The order endpoint is a demo and does not save orders. Real login, admin authentication, database persistence, payment processing, and real order tracking are not implemented.

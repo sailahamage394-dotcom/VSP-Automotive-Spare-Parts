@@ -1,0 +1,1 @@
+{"name":"vsp-automotive-spare-parts","version":"1.0.0","description":"VSP automotive spare parts student project","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"}}
